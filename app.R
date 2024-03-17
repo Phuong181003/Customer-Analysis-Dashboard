@@ -352,7 +352,7 @@ ui <- dashboardPage(
 <ul><li>Need more information about active customers, retained customers, numbers of bought products (calculation at acquisition date and time series). These will follow both of retention over users life time and product life time. </li></ul>
 
 <ul><li>More dataset about customers, products, revenue, cost, etc. will have better analysis with the long time series to analyze year over year, predict future trend and prepare for seasonal campaign, events as much as possible. </li></ul>
-<mark><label>Thank you so much for your attention. If you have any questions, feel free to contact me:  kiung711.de@gmail.com </label></mark><br>
+<mark><label>Thank you so much for your attention. If you have any questions, feel free to contact me:  haphuong@u.nus.com </label></mark><br>
 </p>
                      '))
     )
