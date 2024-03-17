@@ -112,7 +112,6 @@ ui <- dashboardPage(
                 HTML('<p>
                      <mark><label>ABOUT DATA </label></mark><br>
                      <p><label>I would like to take some notes before we go further with visualization and analysis</label></p>
-                     <ul><li>The file of dataset has been cleaned and named "test_kim_ung.csv"</li></ul>
                      <ul><li> Customer ID: To understand more about customer behavior, customers have been separated into other groups: </li></ul>
                      <ul><ul><li> There exists 406 unknown customer ID (row numbers) and no information about acquisition & subscription date --> I set this group with name: Customer Group 3</li></ul></ul>
                      <ul><ul><li> 73 customers have ID, but no information about acquisition & subscription date --> they are in Customer Group 2</li></ul></ul>
@@ -352,7 +351,7 @@ ui <- dashboardPage(
 <ul><li>Need more information about active customers, retained customers, numbers of bought products (calculation at acquisition date and time series). These will follow both of retention over users life time and product life time. </li></ul>
 
 <ul><li>More dataset about customers, products, revenue, cost, etc. will have better analysis with the long time series to analyze year over year, predict future trend and prepare for seasonal campaign, events as much as possible. </li></ul>
-<mark><label>Thank you so much for your attention. If you have any questions, feel free to contact me:  haphuong@u.nus.com </label></mark><br>
+<mark><label>Thank you so much for your attention. If you have any questions, feel free to contact me:  haphuong@u.nus.edu </label></mark><br>
 </p>
                      '))
     )
